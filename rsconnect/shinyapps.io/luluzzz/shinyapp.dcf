@@ -1,0 +1,12 @@
+name: shinyapp
+title: shinyapp
+username: luluzzz
+account: luluzzz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11952004
+bundleId: 8586073
+url: https://luluzzz.shinyapps.io/shinyapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
